@@ -68,7 +68,7 @@
       @agregar-paciente="agregarPaciente"
       :id="paciente.id"
     />
-    <div class="w-1/2 h-screen overflow-y-auto">
+    <div class="md:w-1/2 h-screen overflow-y-auto">
       <h2 class="font-black text-3xl text-center mb-3">Administra tus Pacientes</h2>
         <p class="text-center text-lg">
             Realiza un siguimiento de tus 

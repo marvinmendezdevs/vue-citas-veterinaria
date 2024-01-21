@@ -65,7 +65,7 @@
 </script>
 
 <template>
-    <div class="w-1/2">
+    <div class="md:w-1/2 p-5 md:p-0">
         <h2 class="font-black text-3xl text-center mb-3">Seguimiento de Pacientes</h2>
         <p class="text-center text-lg mb-5">
             Añade pacientes y
